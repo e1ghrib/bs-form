@@ -14,6 +14,7 @@
             <td>Last name</td>
             <td><?= $_POST['lname']?></td>
         </tr>
+        #it was one function 
     </table>
 </body>
 </html>
