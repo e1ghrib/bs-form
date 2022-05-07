@@ -1,2 +1,5 @@
 # bs-form
-Bootstrap Form
+>Bootstrap Form
+```sh
+git clone 
+```
